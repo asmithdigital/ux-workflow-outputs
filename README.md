@@ -1,1 +1,1 @@
-# ux-workflow-outputs
+# UX Workflow Outputs — this repo contains approved design components pushed from Figma.
