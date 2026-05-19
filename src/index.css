@@ -1,0 +1,18 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: #E5E7EB;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
